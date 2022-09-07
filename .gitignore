@@ -25,3 +25,7 @@ hs_err_pid*
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
