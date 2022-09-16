@@ -1,5 +1,5 @@
 # Java como programar - Exercícios
 
-<img src="#" alt="imagem api student">
+<img src="Capa Java Deitel.png" alt="imagem capa java deitel">
 
 > Exercícios e exemplos de classes do livro Java como programar Deitel.
